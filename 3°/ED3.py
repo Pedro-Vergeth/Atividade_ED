@@ -7,9 +7,7 @@ P2 = []
 P3 = []
 
 while opc != 7 :
-    print(P1)
-    print(P2)
-    print(P3)
+    
     print("""
         1 - Adicionar
         2 - Retirar
